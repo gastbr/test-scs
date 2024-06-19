@@ -3001,16 +3001,35 @@ const data = [
 	}
 ]
 
+let preguntaRandom;
+
 document.addEventListener("DOMContentLoaded", function () {
 
-	let preguntaRandom = Math.floor(Math.random() * data.length);
+	preguntaRandom = Math.floor(Math.random() * data.length);
 
 	document.querySelector('#Pregunta1').innerText = (preguntaRandom + 1) + ') ' + data[preguntaRandom].pregunta;
 
 	for (let i = 0; i < data[preguntaRandom].opciones.length; i++) {
-		document.querySelector(`#Opcion${i + 1}~span`).textContent = data[preguntaRandom].opciones[i];
+		document.querySelector(`#Opcion${i}~.texto`).textContent = data[preguntaRandom].opciones[i];
 	}
 
 
 	//document.querySelector('').textContent = data[preguntaRandom].correcta;
 });
+
+function comprobar() {
+	let elegida;
+	let respuesta = data[preguntaRandom].correcta;
+
+	for (let i = 0; i < 3; i++) {
+		if (document.getElementById(`Opcion${i}`).checked) {
+			elegida = i;
+		}
+	}
+
+	if (elegida == respuesta) {
+		document.querySelector(`#Opcion${elegida}~.respuesta`).textContent = '✅';
+	} else {
+		document.querySelector(`#Opcion${elegida}~.respuesta`).textContent = '❌';
+	}
+}
