@@ -3021,7 +3021,7 @@ function comprobar() {
 	let elegida;
 	let respuesta = data[preguntaRandom].correcta;
 
-	for (let i = 0; i < 3; i++) {
+	for (let i = 0; i < 4; i++) {
 		if (document.getElementById(`Opcion${i}`).checked) {
 			elegida = i;
 		}
