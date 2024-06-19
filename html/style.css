@@ -1,0 +1,9 @@
+form {
+    border: 1px dotted;
+    overflow-y: scroll;
+    font-size: 1.6rem;
+}
+
+form * {
+    margin-top: 20px;
+}
