@@ -57,7 +57,7 @@ const data = [
 			"Cooperativo",
 			"Asertivo"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "El proceso mediante el cual las personas interpretan y organizan la información con la finalidad de darle significado y compresión a su mundo, recibe el nombre de:",
@@ -187,7 +187,7 @@ const data = [
 			"Se debe tener en cuenta a quién va dirigida la comunicación y qué aptitud presenta el receptor",
 			"No se debe tener en cuenta el tiempo del que disponemos"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Los rumores, chismes u opiniones surgidos en el seno de la organización pertenecen a la comunicación denominada como:",
@@ -207,7 +207,7 @@ const data = [
 			"Información sobre horarios de información médica",
 			"Información sobre las pruebas y/o tratamientos que se le están realizando a los/as pacientes"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "En la relación de atención y acogida al público, el factor más importante para el ciudadano en el que debe centrarse el profesional es:",
@@ -247,7 +247,7 @@ const data = [
 			"Únicamente durante la vigilancia nocturna",
 			"Deben dar cuenta a sus inmediatos superiores de los desperfectos o anomalías que encontraren en la limpieza y conservación del edificio o material"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Las funciones que deben realizar los celadores en los centros sanitarios vienen recogidas en:",
@@ -267,7 +267,7 @@ const data = [
 			"Realizarán la vigilancia de exteriores, pero sólo durante el día",
 			"Evitarán que los visitantes fumen en las habitaciones"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "En el estatuto de personal no sanitario al servicio de las instituciones sanitarias de la seguridad social, orden del ministerio de trabajo de 5 de julio de 1971, en qué artículo se detallan todas y cada una de las funciones del celador:",
@@ -397,7 +397,7 @@ const data = [
 			"Dará cuenta a sus inmediatos superiores",
 			"Dará cuenta con la mayor brevedad a su inmediato superior y procederán a reparar el desperfecto o anomalía"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Las funciones a realizar por el celador:",
@@ -427,7 +427,7 @@ const data = [
 			"Avisar a los familiares del paciente que va a ingresar en planta y el tratamiento médico a recibir",
 			"Avisar a los familiares y acompañantes de los asistidos en urgencias que pasen a las dependencias que van a ser informados de la asistencia y evolución del paciente, por parte del personal sanitario"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Señale cuál de las siguientes tareas deberán desempeñar los celadores en los centros sanitarios:",
@@ -537,7 +537,7 @@ const data = [
 			"Deben transmitirlas con la máxima celeridad",
 			"Transmiten mensajes a familiares referentes a diagnósticos de pacientes"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Los celadores en el ejercicio de sus funciones, señale la respuesta correcta:",
@@ -587,7 +587,7 @@ const data = [
 			"Información sobre horarios de información médica",
 			"Información sobre las pruebas y/o tratamientos que se le están realizando a los/as pacientes"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Desde el servicio de admisión requieren la presencia de un celador Una vez allí le dicen que acompañe a una persona que va a ser hospitalizada. Usted observa que se trata de un enfermo que tenía su ingreso programado con antelación, que viene acompañado de dos familiares y que puede desplazarse autónomamente, usted:",
@@ -667,7 +667,7 @@ const data = [
 			"Sillas de ruedas",
 			"Todos se utilizan"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "La enfermera nos indica que debe realizarse el lavado de cabeza a un paciente encamado El celador ayudará a colocarlo en posición:",
@@ -677,7 +677,7 @@ const data = [
 			"Morestin",
 			"Roser"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "¿Cuál es la obligación de un celador en relación con la colocación y retirada de cuñas para la recogida de excretas de los enfermos?",
@@ -697,7 +697,7 @@ const data = [
 			"Trendelenburg inverso",
 			"Trendelenburg"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Al transferir un paciente desde la cama a un sillón en aquellas circunstancias que el enfermo puede colaborar en el traslado, se le sujetará:",
@@ -707,7 +707,7 @@ const data = [
 			"Abrazándolo a la altura de los hombros",
 			"Por la cintura"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Las modificaciones realizadas en la postura corporal del paciente encamado, y que forman parte del plan de cuidados, se denominan:",
@@ -777,7 +777,7 @@ const data = [
 			"Los familiares del paciente",
 			"El personal sanitario responsable"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Las anomalías o deficiencias observadas en la dotación del servicio encomendado respecto al traslado de material y equipos sanitarios y no sanitarios:",
@@ -857,7 +857,7 @@ const data = [
 			"Es de uso obligatorio para el personal con el pelo largo",
 			"Es una prenda obligatoria para todas las personas que accedan al área quirúrgica"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "El quirófano debe estar construido con unas determinadas características Señala la opción INCORRECTA:",
@@ -887,7 +887,7 @@ const data = [
 			"Posición de Morestín",
 			"Todas las opciones anteriores son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Indica el orden correcto al colocarse la vestimenta de quirófano:",
@@ -907,7 +907,7 @@ const data = [
 			"Se conoce como asepsia al conjunto de técnicas que garantizan la presencia de materia séptica o microorganismos infecciosos",
 			"Todas las respuestas anteriores son falsas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Dentro de los métodos de desinfección de material existen los procedimientos físicos, ¿cuál de los siguientes NO está dentro de este tipo de método?",
@@ -937,7 +937,7 @@ const data = [
 			"Higiene",
 			"Desinfección"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "La desinfección que solo es activa frente a virus lipídicos de tamaño medio, bacterias en forma vegetativa y hongos, es de:",
@@ -1007,7 +1007,7 @@ const data = [
 			"Retirar los guantes después del contacto con el paciente y desecharlo",
 			"No es necesario realizar higiene de manos al cambiar de guantes"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "En la UCI, ¿cómo se denominan las unidades especializadas identificadas según patologías que presentan los pacientes?",
@@ -1067,7 +1067,7 @@ const data = [
 			"Óbito",
 			"Todas son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Según Gisbert Calabuig existen cuatro fases de la muerte, ¿a cuál de estas fases nos referimos si decimos que se produce una extinción o desaparición progresiva e irreversible de la actividad biológica de los diferentes órganos y tejidos?",
@@ -1097,7 +1097,7 @@ const data = [
 			"Se encargará de amortajar a los enfermos fallecidos",
 			"Las respuestas A y B son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "¿En qué consiste el amortajamiento cuando un paciente fallece?",
@@ -1107,7 +1107,7 @@ const data = [
 			"Cerrar los ojos y boca del cadáver",
 			"Todas las respuestas son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "El complejo de la zona mortuoria debe reunir una serie de condiciones, ¿cuál de las siguientes NO se encuentra entre ellas?",
@@ -1147,7 +1147,7 @@ const data = [
 			"Técnica de Letulle",
 			"Técnica de autopsia"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "¿Cuál de las siguientes técnicas de autopsia es la que se usa con más frecuencia en los hospitales?",
@@ -1167,7 +1167,7 @@ const data = [
 			"Anotaciones sobre la posible causa de la muerte",
 			"Todas las respuestas anteriores son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "La autopsia médico legal se denomina también:",
@@ -1217,7 +1217,7 @@ const data = [
 			"1,80 m de longitud x 0,70 m de ancho",
 			"2,10 m de longitud x 0,75 m de ancho"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Dentro del material inicial de una autopsia común se encuentra:",
@@ -1227,7 +1227,7 @@ const data = [
 			"Instrumentos de medición",
 			"Todas son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "¿Cuál de los siguientes productos no se considera material fungible?",
@@ -1247,7 +1247,7 @@ const data = [
 			"Colocación de los productos almacenables en sus ubicaciones respectivas",
 			"Control del gasto del almacén de los diferentes servicios peticionarios"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "En un hospital existen siempre dos almacenes básicos, ¿sabrías decir cuáles son?",
@@ -1307,7 +1307,7 @@ const data = [
 			"El auxiliar administrativo del almacén",
 			"El celador de almacén"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "A la hora de ubicar un muelle de carga para un almacén hospitalario debemos tener en cuenta que:",
@@ -1317,7 +1317,7 @@ const data = [
 			"Esté cerca de la sede de las ambulancias para aprovechar el mismo espacio",
 			"No este próximo a las zonas asistenciales, para que no influya en el tránsito de las ambulancias y evitar ruidos que perjudiquen a los enfermos"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "La función de contar las existencias de un almacén en un momento determinado se denomina:",
@@ -1327,7 +1327,7 @@ const data = [
 			"Salidas",
 			"Inventario"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "El concepto importante en la gestión de almacenes que mide el tiempo transcurrido desde que un artículo entra en el almacén hasta que se produce su salida, recibe el nombre de:",
@@ -1337,7 +1337,7 @@ const data = [
 			"Índice operativo",
 			"Índice de rotación"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Entre las tareas propias del celador en almacén NO figura:",
@@ -1347,7 +1347,7 @@ const data = [
 			"Colocación de los productos almacenables en sus ubicaciones respectivas",
 			"Realizar informes mensuales con la valoración económica de los movimientos del almacén"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "¿Cuál es el objetivo final de los almacenes hospitalarios?",
@@ -1427,7 +1427,7 @@ const data = [
 			"Del personal de mantenimiento",
 			"Del celador del almacén"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "La estancia provisional de las mercancías en el almacén, lo que implica colocación, conservación y control de las existencias, se denomina:",
@@ -1447,7 +1447,7 @@ const data = [
 			"DUE / TCAE / celador/a",
 			"Todas son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Si nos referimos a; toda materia, cualquiera que sea su origen a la que se le atribuye una actividad apropiada para constituir un medicamento, estamos hablando de:",
@@ -1457,7 +1457,7 @@ const data = [
 			"Fórmula magistral",
 			"Principio activo"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "¿Cuál de las siguientes es la definición de excipiente?",
@@ -1497,7 +1497,7 @@ const data = [
 			"Dispensación de determinado material",
 			"Todas son funciones del celador/a"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "¿Qué significa que la distribución de medicamentos se realice por el método de 'unidosis'?",
@@ -1517,7 +1517,7 @@ const data = [
 			"Control de botiquines en unidades hospitalarias",
 			"Control del uso de alcohol 90º en unidades de hospitalización"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "'Es una técnica que se realiza cuando no es posible una adecuada alimentación por vía oral o por sonda', es la definición de:",
@@ -1577,7 +1577,7 @@ const data = [
 			"En un establecimiento de un criador",
 			"Todas las opciones son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "¿Qué tipo de métodos se utilizarán para la eutanasia de los animales?",
@@ -1587,7 +1587,7 @@ const data = [
 			"Aturdimiento eléctrico",
 			"Todas las opciones anteriores son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Las condiciones ambientales en las que se críen, mantengan o utilicen los animales, ¿con qué frecuencia se deben verificar?",
@@ -1637,7 +1637,7 @@ const data = [
 			"Real Decreto 20/2012",
 			"Real Decreto 53/2013"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "La documentación clínica tiene diversas utilidades como (señala la respuesta CORRECTA):",
@@ -1647,7 +1647,7 @@ const data = [
 			"Material para la investigación y docencia",
 			"Todas las respuestas anteriores son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "El transporte de documentación:",
@@ -1667,7 +1667,7 @@ const data = [
 			"Hoja operatoria",
 			"Impreso de citación"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "'El conjunto de documentos que contiene los datos, valoraciones e informaciones de cualquier índole sobre la situación y la evolución clínica de un paciente a lo largo del proceso asistencial', es lo que se conoce como:",
@@ -1737,7 +1737,7 @@ const data = [
 			"Recoger los resultados de las analíticas",
 			"Facilitar la asistencia sanitaria"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Los menores de edad no emancipados:",
@@ -1767,7 +1767,7 @@ const data = [
 			"Médico-legal",
 			"Todas las respuestas anteriores son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "La hoja de informe de alta, de la historia clínica de atención especializada se conservará:",
@@ -1777,7 +1777,7 @@ const data = [
 			"Como mínimo cinco años a partir de la fecha del último episodio asistencial en que el paciente haya sido atendido en el hospital",
 			"Indefinidamente utilizando el soporte más adecuado que garantice esta correcta conservación"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "¿Puede un celador acceder a los datos de la historia clínica de un paciente?",
@@ -1807,7 +1807,7 @@ const data = [
 			"Facilitar el acceso a la historia clínica una vez finalizado el proceso asistencial",
 			"Del traslado de las historias clínicas y documentación complementaria desde la unidad hospitalaria correspondiente al archivo de historias clínicas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "NO es un documento de traslado ordinario, por parte de los celadores, el siguiente:",
@@ -1837,7 +1837,7 @@ const data = [
 			"El director del hospital",
 			"El jefe del archivo central de historias clínicas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "De conformidad con la legislación básica sanitaria, se permite la utilización de la información contenida en la historia clínica con fines:",
@@ -1857,7 +1857,7 @@ const data = [
 			"Graficas de constantes vitales",
 			"Todas las respuestas anteriores son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Los documentos administrativos para la gestión, organización y coordinación de recursos del centro sanitario, forman parte de:",
@@ -1887,7 +1887,7 @@ const data = [
 			"Disfagia",
 			"Ninguna de las respuestas anteriores es correcta"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "El miedo o angustia a las multitudes, es:",
@@ -1917,7 +1917,7 @@ const data = [
 			"Pérdida de la realidad",
 			"Agresividad"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Dentro de la actuación ante una urgencia psiquiátrica en pacientes con riesgo suicida NO es función propia del celador:",
@@ -2007,7 +2007,7 @@ const data = [
 			"Alucinaciones",
 			"Todas las respuestas anteriores son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Son trastornos de la conducta que pueden aparecer en la enfermedad de Alzheimer:",
@@ -2017,7 +2017,7 @@ const data = [
 			"Gritos",
 			"Todas las respuestas anteriores son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Se entiende por psiquiatría, aquella rama de la medicina que tiene por objeto:",
@@ -2027,7 +2027,7 @@ const data = [
 			"Tratar de evitar y poner remedio a ciertas variantes psíquicas anormales",
 			"Todas las respuestas anteriores son ciertas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Cuando se recibe a un paciente psiquiátrico en urgencias, ¿qué medidas se aplicarán?",
@@ -2127,7 +2127,7 @@ const data = [
 			"Es inadecuado para fuegos de materiales sólidos",
 			"Conduce la electricidad"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "El emplazamiento de los extintores permitirá:",
@@ -2147,7 +2147,7 @@ const data = [
 			"Presionará la válvula y dirigirá el agente extintor a la base de las llamas en zigzag, avanzando a medida que las llamas se van apagando",
 			"Presionará la válvula y dirigirá el agente extintor a la base de las llamas en zigzag, avanzando a medida que las llamas se van apagando, asegurándose que el fuego está apagado y permanecerá alerta"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "En caso de evacuación por incendio de un hospital se debe:",
@@ -2207,7 +2207,7 @@ const data = [
 			"De agua tratada",
 			"De CO2"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "En el manejo de bocas de incendios ante un conato de incendio se conseguirá una mayor rapidez y eficacia en la extinción del fuego:",
@@ -2237,7 +2237,7 @@ const data = [
 			"Poseerá sólidos conocimientos de seguridad contra incendios y del plan de autoprotección",
 			"Todas las respuestas anteriores son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Dentro de la clasificación estándar de los fuegos, ¿cuál es el tipo de agente extintor menos indicado en fuegos del tipo B?",
@@ -2317,7 +2317,7 @@ const data = [
 			"Emergencia general",
 			"Conato"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Para la aplicación de las normas de precauciones de aislamiento hay que tener en cuenta:",
@@ -2347,7 +2347,7 @@ const data = [
 			"Se debe limitar el traslado del paciente fuera de la habitación a fines clínicamente necesarios",
 			"Las habitaciones serán siempre y en todas las circunstancias individuales"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "¿Dónde se deben aplicar las precauciones estándar?",
@@ -2407,7 +2407,7 @@ const data = [
 			"Sólo los celadores",
 			"Todos los trabajadores sanitarios"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "De las siguientes medidas, ¿cuál de ellas incluiría en las precauciones estándar?",
@@ -2417,7 +2417,7 @@ const data = [
 			"Higiene de manos",
 			"Todas las respuestas anteriores son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "En relación a las precauciones a adoptar para prevenir la transmisión por vía aérea de enfermedades infecciosas, señale cuál de ellas es INCORRECTA:",
@@ -2437,7 +2437,7 @@ const data = [
 			"Pacientes que permanecen aislados en su propia casa",
 			"Pacientes que tienen disminuidas gravemente sus defensas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Son seres inanimados, contaminados a partir de la fuente de infección, que transmiten enfermedades:",
@@ -2507,7 +2507,7 @@ const data = [
 			"Aislamiento respiratorio",
 			"Aislamiento protector"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "¿Cómo se llama el lugar donde los microorganismos viven, se desarrollan y se multiplican indefinidamente?",
@@ -2627,7 +2627,7 @@ const data = [
 			"Orienta el flujo de pacientes en función de su gravedad",
 			"Todas las respuestas anteriores son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "¿Cuál de estas actuaciones del celador de urgencias es la incorrecta?",
@@ -2647,7 +2647,7 @@ const data = [
 			"Recibe al enfermo y comienza a hacer la anamnesis del paciente",
 			"Las respuestas A y B son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "En la recepción de pacientes en la entrada de urgencias, ¿cuál de las siguientes actuaciones es INCORRECTA?",
@@ -2677,7 +2677,7 @@ const data = [
 			"No debe hacer nada puesto que el paciente ya está estabilizado",
 			"Debe permanecer atento en la sala hasta que el personal sanitario lo considere oportuno"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Es una función del celador de urgencias:",
@@ -2697,7 +2697,7 @@ const data = [
 			"Internamiento en unidad de hospitalización",
 			"Asistencia urgente domiciliaria"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "¿Cuál de las siguientes NO es una función que corresponde realizar al celador de una unidad de urgencias de hospital?",
@@ -2717,7 +2717,7 @@ const data = [
 			"Al conjunto de actuaciones dirigidas a conseguir que las funciones ventilatorias y hemodinámicas estén aseguradas durante el traslado",
 			"A la clasificación de los pacientes"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Cuál de las siguientes NO es una zona o área de trabajo de la unidad de urgencias:",
@@ -2737,7 +2737,7 @@ const data = [
 			"Indicará que vaya al servicio de urgencias",
 			"Se cerciorará de los hechos e informará de inmediato al personal sanitario, siguiendo sus instrucciones para trasladar al paciente"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "El triaje es:",
@@ -2747,7 +2747,7 @@ const data = [
 			"Colaborar",
 			"Las respuestas A y B son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "En la puerta de urgencia de un hospital, entra un accidentado con una sospecha de fractura en el brazo, el dispositivo que se utiliza para inmovilizar lesiones, fracturas o desplazamientos de una parte del cuerpo, se llama:",
@@ -2777,7 +2777,7 @@ const data = [
 			"Al transporte del paciente desde un servicio a otro dentro del mismo hospital para que le realicen una prueba o le cambien de unidad",
 			"Al transporte que se realiza utilizando medios especiales de transporte como un helicóptero"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "El transporte sanitario:",
@@ -2787,7 +2787,7 @@ const data = [
 			"Es el que se realiza en vehículos especialmente acondicionados para el desplazamiento de personas enfermas, accidentadas o por otra razón sanitaria",
 			"Las respuestas A y C son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Las ambulancias acondicionadas para el transporte de enfermos, destinadas a proporcionar soporte vital avanzado, son:",
@@ -2797,7 +2797,7 @@ const data = [
 			"Ambulancias de clase B",
 			"Ambulancias de clase C"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Dentro del equipamiento para el transporte sanitario medicalizado y de urgencias, el colchón de vacío es un material:",
@@ -2807,7 +2807,7 @@ const data = [
 			"Cardiovascular",
 			"Traumatológico"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Los servicios de transporte sanitario podrán prestarse por:",
@@ -2817,7 +2817,7 @@ const data = [
 			"Vehículos adecuados para el traslado individual de enfermos en camilla, dotados de equipamientos que permitan medidas asistenciales, o con vehículos acondicionados para el transporte colectivo de enfermos aquejados de enfermedades transmisibles",
 			"Las respuestas A y B son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "En relación a las exigencias que deben cumplir los vehículos de transporte sanitario, señale la respuesta correcta:",
@@ -2837,7 +2837,7 @@ const data = [
 			"Vehículos con equipos especiales básicos",
 			"Las respuestas A y B son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "En las unidades terrestres de soporte vital avanzado, parte de su material de oxigenoterapia, serían aparatos de ventilación manual, para:",
@@ -2917,7 +2917,7 @@ const data = [
 			"Donde causen menor obstáculo a la circulación",
 			"Las preguntas A y C son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "¿Los vehículos de servicio de urgencia podrán circular por encima de los límites de velocidad?",
@@ -2947,7 +2947,7 @@ const data = [
 			"Mascarilla de ventilación",
 			"Todas las respuestas son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "Entre las funciones del celador/a - conductor/a está:",
@@ -2957,7 +2957,7 @@ const data = [
 			"Trasladar a los enfermos en el servicio ambulancia",
 			"Todas son correctas"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "¿Debe un vehículo de transporte sanitario colectivo llevar entre su dotación un chaleco reflectante de alta visibilidad?",
@@ -2987,7 +2987,7 @@ const data = [
 			"En situaciones de difícil acceso",
 			"Para el traslado del enfermo desde el lugar del accidente hasta su medio de transporte"
 		],
-		correcta: 4
+		correcta: 3
 	},
 	{
 		pregunta: "La posición correcta para trasladar una embarazada con hemorragia vaginal es:",
